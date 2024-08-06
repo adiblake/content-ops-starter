@@ -2,9 +2,7 @@
 title: Nike SK - Air Max 97
 slug: nike-air-sk
 date: '2019-07-02'
-excerpt: >-
-  Design work completed for Nike as part of their collaboration with Skepta Nike
-  SK 
+excerpt: 'Design work completed for Nike and their collaboration with Skepta '
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
