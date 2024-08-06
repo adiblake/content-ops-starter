@@ -13,6 +13,7 @@ sections:
     posts:
       - content/pages/blog/mecha.md
       - content/pages/blog/dfywear.md
+      - content/pages/blog/nike-air-sk.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
