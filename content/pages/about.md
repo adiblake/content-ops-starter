@@ -83,7 +83,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pl-7
+          - pl-0
   - type: GenericSection
     title:
       type: TitleBlock
