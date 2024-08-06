@@ -7,7 +7,7 @@ sections:
       text: 'Hey, I''m Adi!'
       color: text-dark
       type: TitleBlock
-    subtitle: My name is Adi!
+    subtitle: Welcome to my portfolio.
     text: >
       I am a graphic designer turned mechanical engineer with over 5 years of
       design experience and a flourishing passion for product design. Please
