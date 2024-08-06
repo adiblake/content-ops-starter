@@ -58,7 +58,7 @@ sections:
         margin:
           - mb-0
         justifyContent: center
-        flexDirection: '-reverse'
+        flexDirection: ''
   - type: GenericSection
     title:
       type: TitleBlock
