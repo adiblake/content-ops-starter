@@ -16,7 +16,7 @@ sections:
       design experience and a flourishing passion for product design. 
 
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     backgroundImage:
       type: BackgroundImage
       url: /images/KBAmy001836--000028.jpg
