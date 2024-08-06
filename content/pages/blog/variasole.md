@@ -32,6 +32,14 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+featuredImage:
+  type: ImageBlock
+  url: /images/hero2.svg
+  altText: Image alt text placeholder
+  elementId: ''
+  styles:
+    self:
+      borderRadius: medium
 ---
 ![](/images/Variasole%201.png)See our full product presentation here: [https://www.youtube.com/watch?v=7H76paM05B8& ](https://www.youtube.com/watch?v=7H76paM05B8&)
 
