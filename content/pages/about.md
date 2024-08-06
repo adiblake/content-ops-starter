@@ -55,6 +55,8 @@ sections:
     styles:
       self:
         alignItems: center
+        margin:
+          - mb-28
   - type: GenericSection
     title:
       type: TitleBlock
