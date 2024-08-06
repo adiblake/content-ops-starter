@@ -18,7 +18,7 @@ sections:
     colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
-      url: /images/KBAmy001836--000028.jpg
+      url: /images/PXL_20221221_202609418.jpg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
