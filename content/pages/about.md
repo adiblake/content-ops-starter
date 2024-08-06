@@ -90,7 +90,7 @@ sections:
           - pl-0
         margin:
           - ml-0
-          - mr-1
+          - mr-0
           - mt-0
           - mb-1
         justifyContent: center
