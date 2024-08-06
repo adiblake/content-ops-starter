@@ -91,7 +91,7 @@ sections:
         margin:
           - ml-72
           - mr-72
-          - mt-72
+          - mt-0
           - mb-72
   - type: GenericSection
     title:
