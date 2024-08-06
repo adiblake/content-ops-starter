@@ -137,7 +137,7 @@ sections:
       type: TitleBlock
       text: Want to get in touch?
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Flick me a message
     text: ''
     actions: []
     media:
