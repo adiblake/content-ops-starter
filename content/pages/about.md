@@ -37,7 +37,7 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    subtitle: My Story
+    subtitle: My story
     text: >
       I've always been interested in how design can help people live better
       lives. 
