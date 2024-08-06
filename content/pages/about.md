@@ -113,7 +113,12 @@ sections:
         flexDirection: '-reverse'
   - type: GenericSection
     subtitle: ''
-    text: "My award winning final year project in mechanical engineering involved designing custom variable density shoe insoles for patients suffering from diabetic neuropathy, by harnessing the 3D printing of soft materials into field-driven lattice structures.\n\n\_\n\n"
+    text: >+
+      My passion for product design and healthcare has led me to work in
+      research and development in medical devices, whilst continuing my
+      volunteer work at Diabetes New Zealand. It is through design innovation
+      that I hope I can make a positive difference in the lives of others.
+
     actions: []
     media:
       type: ImageBlock
