@@ -71,7 +71,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Screenshot_8.png
+      url: /images/shared image (2).jpg
       altText: Dope design preview
     badge:
       type: Badge
