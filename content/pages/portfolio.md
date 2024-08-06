@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/mecha.md
+      - content/pages/blog/dfywear.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
