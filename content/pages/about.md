@@ -96,14 +96,11 @@ sections:
         justifyContent: center
   - type: GenericSection
     subtitle: My Story
-    text: >
-      I've always been interested in how design can help people live better
-      lives. 
+    text: >+
+      Working as a graphic designer for several years, I happened onto a TED
+      Talk given by the engineer who designed the first insulin pump prototype,
+      and knew the next step in my career was to pursue mechanical engineering.
 
-
-      Working as a graphic designer for half a decade and now as a mechanical
-      engineer in medical device product development, I've had the privilege of
-      applying my design skills to address real-world problems.
     actions: []
     media:
       type: ImageBlock
