@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Design work completed for Adidas and their collaboration with Parley.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/efa49861051433.5a61987815be5.png
   altText: Thumbnail
   elementId: ''
   styles:
