@@ -15,7 +15,7 @@
         {
             "label": "Portfolio",
             "altText": "Portfolio",
-            "url": "/blog",
+            "url": "/portfolio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
