@@ -7,18 +7,6 @@ excerpt: >-
   The VARIASOLE is a mass-customised, orthotic insole designed to alleviate
   plantar pressure for those suffering from ulceration or infection, especially
   in a diabetic context.
-featuredImage:
-  type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider
