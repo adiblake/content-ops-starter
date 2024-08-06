@@ -12,15 +12,6 @@ sections:
       I am a graphic designer turned mechanical engineer with over 5 years of
       design experience and a flourishing passion for product design. 
     actions:
-      - label: Let's talk
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See my work
         altText: ''
         url: /portfolio
