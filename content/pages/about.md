@@ -60,41 +60,6 @@ sections:
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: How it started
-    text: >+
-      I was just 10 years old when I had the chance to use a device that would
-      change my life for years to come. It was having an insulin pump - a pocket
-      sized device that allowed me to dose a continuous flow of insulin - that
-      fundamentally changed the way I could eat, sleep and live life as a kid
-      with type-1 diabetes.
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/421421321321321.jpg
-      altText: Me as a kid
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pl-0
-        margin:
-          - ml-0
-          - mr-0
-          - mt-0
-          - mb-1
-        justifyContent: center
-  - type: GenericSection
     subtitle: How it started
     text: >+
       I was just 10 years old when I had the chance to use a device that would
