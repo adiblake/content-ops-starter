@@ -71,7 +71,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KBAmy001836--000028.jpg
+      url: /images/Screenshot_8.png
       altText: Dope design preview
     badge:
       type: Badge
