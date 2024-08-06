@@ -122,7 +122,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/received_1635149097275087.jpeg
+      url: /images/IMG_2022050csacxz5_183545.jpg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
