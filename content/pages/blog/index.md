@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-slug: /blog
+slug: /portfolio
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
