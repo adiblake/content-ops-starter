@@ -89,10 +89,10 @@ sections:
         padding:
           - pl-0
         margin:
-          - ml-1
-          - mr-1
-          - mt-1
-          - mb-1
+          - ml-44
+          - mr-44
+          - mt-44
+          - mb-44
   - type: GenericSection
     title:
       type: TitleBlock
