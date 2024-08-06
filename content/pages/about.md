@@ -86,6 +86,7 @@ sections:
           - pl-0
         margin:
           - ml-72
+          - mr-72
   - type: GenericSection
     title:
       type: TitleBlock
