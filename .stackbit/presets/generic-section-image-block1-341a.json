@@ -1,0 +1,63 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "image block1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "images"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "How it started",
+                "text": "I was just 10 years old when I had the chance to use a device that would change my life for years to come. It was having an insulin pump - a pocket sized device that allowed me to dose a continuous flow of insulin - that fundamentally changed the way I could eat, sleep and live life as a kid with type-1 diabetes.\n\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/shared image (2).jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Me as a kid",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse",
+                        "padding": [
+                            "pl-0"
+                        ],
+                        "margin": [
+                            "ml-40",
+                            "mr-40",
+                            "mt-40",
+                            "mb-40"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-image-block1-341a.png"
+        }
+    ]
+}
