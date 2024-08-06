@@ -81,6 +81,8 @@ sections:
           - mb-0
         justifyContent: center
         flexDirection: '-reverse'
+        padding:
+          - pt-96
   - type: GenericSection
     subtitle: ''
     text: >+
