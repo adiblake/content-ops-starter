@@ -53,9 +53,8 @@ sections:
       text: ''
       color: text-dark
     subtitle: Here's a little about me...
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      I am a graphic designer turned mechanical engineer 
     actions: []
     media:
       type: ImageBlock
