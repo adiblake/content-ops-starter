@@ -14,6 +14,7 @@ sections:
       - content/pages/blog/mecha.md
       - content/pages/blog/dfywear.md
       - content/pages/blog/nike-air-sk.md
+      - content/pages/blog/adidas-parley.md
       - content/pages/blog/variasole.md
     showThumbnail: true
     showExcerpt: true
