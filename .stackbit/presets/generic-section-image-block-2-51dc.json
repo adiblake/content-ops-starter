@@ -1,0 +1,43 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "image block 2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "images"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "My Story",
+                "text": "I've always been interested in how design can help people live better lives. \n\nWorking as a graphic designer for half a decade and now as a mechanical engineer in medical device product development, I've had the privilege of applying my design skills to address real-world problems.\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/KBAmy001836--000028.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-image-block-2-51dc.png"
+        }
+    ]
+}
