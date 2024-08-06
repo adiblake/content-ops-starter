@@ -89,10 +89,10 @@ sections:
         padding:
           - pl-0
         margin:
-          - ml-0
-          - mr-0
-          - mt-0
-          - mb-0
+          - ml-1
+          - mr-1
+          - mt-1
+          - mb-1
         justifyContent: center
   - type: GenericSection
     title:
