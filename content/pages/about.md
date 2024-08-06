@@ -87,7 +87,7 @@ sections:
           - pb-0
           - pr-0
   - type: GenericSection
-    subtitle: ''
+    subtitle: Pivoting industries
     text: >
       Working as a graphic designer for several years, I happened onto a TED
       Talk given by the engineer who designed the first insulin pump prototype,
