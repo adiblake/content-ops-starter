@@ -198,8 +198,7 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-3.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
