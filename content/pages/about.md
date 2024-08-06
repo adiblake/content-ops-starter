@@ -107,7 +107,7 @@ sections:
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
-    subtitle: My Story
+    subtitle: ''
     text: "My award winning final year project in mechanical engineering involved designing custom variable density shoe insoles for patients suffering from diabetic neuropathy, by harnessing the 3D printing of soft materials into field-driven lattice structures.\n\n\_\n\n"
     actions: []
     media:
