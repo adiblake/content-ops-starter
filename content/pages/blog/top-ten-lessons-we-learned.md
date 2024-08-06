@@ -2,7 +2,7 @@
 title: MECHA
 slug: top-ten-lessons-we-learned
 date: '2021-01-14'
-excerpt: 'Branding and design package for MECHA '
+excerpt: Branding and design package for MECHA at The University of Auckland.
 featuredImage:
   url: /images/cover image.png
   altText: Thumbnail
