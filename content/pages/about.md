@@ -89,8 +89,8 @@ sections:
         padding:
           - pl-0
         margin:
-          - ml-72
-          - mr-72
+          - ml-0
+          - mr-0
           - mt-0
           - mb-0
   - type: GenericSection
