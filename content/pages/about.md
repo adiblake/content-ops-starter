@@ -19,7 +19,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
+      url: /images/KBAmy001836--000028.jpg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
