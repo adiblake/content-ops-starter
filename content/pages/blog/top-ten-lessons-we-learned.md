@@ -4,7 +4,7 @@ slug: top-ten-lessons-we-learned
 date: '2021-01-14'
 excerpt: ''
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/cover image.png
   altText: Thumbnail
   type: ImageBlock
   styles:
