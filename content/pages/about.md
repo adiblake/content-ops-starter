@@ -88,11 +88,16 @@ sections:
           - pr-0
   - type: GenericSection
     subtitle: ''
-    text: >+
+    text: >
       Working as a graphic designer for several years, I happened onto a TED
       Talk given by the engineer who designed the first insulin pump prototype,
       and knew the next step in my career was to pursue mechanical engineering.
 
+
+      My award winning final year project in mechanical engineering involved
+      designing custom variable density shoe insoles for patients suffering from
+      diabetic neuropathy, by harnessing the 3D printing of soft materials into
+      field-driven lattice structures.
     actions: []
     media:
       type: ImageBlock
