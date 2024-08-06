@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: VARIASOL
+title: VARIASOLE
 date: '2022-11-10'
 author: content/data/person1.json
 excerpt: >-
