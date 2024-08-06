@@ -108,14 +108,7 @@ sections:
         flexDirection: '-reverse'
   - type: GenericSection
     subtitle: My Story
-    text: >
-      I've always been interested in how design can help people live better
-      lives. 
-
-
-      Working as a graphic designer for half a decade and now as a mechanical
-      engineer in medical device product development, I've had the privilege of
-      applying my design skills to address real-world problems.
+    text: "My award winning final year project in mechanical engineering involved designing custom variable density shoe insoles for patients suffering from diabetic neuropathy, by harnessing the 3D printing of soft materials into field-driven lattice structures.\n\n\_\n\n"
     actions: []
     media:
       type: ImageBlock
