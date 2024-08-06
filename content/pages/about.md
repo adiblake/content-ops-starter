@@ -95,7 +95,7 @@ sections:
           - mb-1
         justifyContent: center
   - type: GenericSection
-    subtitle: My Story
+    subtitle: How it started
     text: >+
       I was just 10 years old when I had the chance to use a device that would
       change my life for years to come. It was having an insulin pump - a pocket
