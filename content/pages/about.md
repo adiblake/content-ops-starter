@@ -56,7 +56,7 @@ sections:
       self:
         alignItems: center
         margin:
-          - mb-5
+          - mb-72
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
