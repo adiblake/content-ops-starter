@@ -85,7 +85,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         padding:
           - pl-0
         margin:
