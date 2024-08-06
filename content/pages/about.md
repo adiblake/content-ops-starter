@@ -95,7 +95,7 @@ sections:
           - mb-1
         justifyContent: center
   - type: GenericSection
-    subtitle: My Story
+    subtitle: ''
     text: >+
       Working as a graphic designer for several years, I happened onto a TED
       Talk given by the engineer who designed the first insulin pump prototype,
