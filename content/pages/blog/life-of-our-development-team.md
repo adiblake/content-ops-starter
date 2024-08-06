@@ -8,7 +8,7 @@ excerpt: >-
   photography, and clothing design I made while leading the art direction for
   this time. 
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/5-4e5ff605.png
   altText: Thumbnail
   type: ImageBlock
   styles:
