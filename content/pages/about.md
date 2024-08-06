@@ -43,7 +43,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: My Story
     text: >+
       I was just 10 years old when I had the chance to use a device that would
       change my life for years to come. It was having an insulin pump - a pocket
