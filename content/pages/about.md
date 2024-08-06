@@ -112,7 +112,7 @@ sections:
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
-    subtitle: ''
+    subtitle: Honing in on my passion
     text: >+
       My passion for product design and healthcare has led me to work in
       research and development in medical devices, whilst continuing my
