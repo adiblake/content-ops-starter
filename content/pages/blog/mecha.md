@@ -22,5 +22,27 @@ styles:
     flexDirection: col
 type: PostLayout
 author: content/data/person1.json
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        justifyContent: center
 ---
 ![](/images/1.png)![](/images/2.gif)![](/images/3.png)![](/images/4.png)![](/images/5.png)![](/images/6.png)![](/images/7.png)![](/images/8.png)
