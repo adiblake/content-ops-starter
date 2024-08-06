@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "About Me",
             "altText": "",
             "url": "/about",
             "showIcon": false,
