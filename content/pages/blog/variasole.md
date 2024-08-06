@@ -20,7 +20,9 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
+    margin:
+      - mb-0
 featuredImage:
   type: ImageBlock
   url: /images/Variasole 1.png
