@@ -183,7 +183,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Want to get in touch?
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
 slug: about
