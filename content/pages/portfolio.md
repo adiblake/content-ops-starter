@@ -11,7 +11,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/mecha.md
     showThumbnail: true
     showExcerpt: true
