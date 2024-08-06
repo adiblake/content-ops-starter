@@ -61,13 +61,13 @@ sections:
         flexDirection: '-reverse'
   - type: GenericSection
     subtitle: How it all started
-    text: >+
+    text: >
       I was just 10 years old when I had the chance to use a device that would
       change my life for years to come. It was having an insulin pump - a pocket
       sized device that allowed me to dose a continuous flow of insulin - that
       fundamentally changed the way I could eat, sleep and live life as a kid
-      with type-1 diabetes.
-
+      with type-1 diabetes. This taught me how a well designed device could
+      improve my life in every way.
     actions: []
     media:
       type: ImageBlock
