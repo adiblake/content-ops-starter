@@ -75,7 +75,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/shared image (2).jpg
+      url: /images/421421321321321.jpg
       altText: Me as a kid
     badge:
       type: Badge
