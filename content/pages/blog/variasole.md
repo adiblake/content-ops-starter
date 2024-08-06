@@ -19,7 +19,7 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: Red Creative
+slug: Variasole
 isFeatured: false
 isDraft: false
 seo:
