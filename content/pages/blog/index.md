@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
-    posts: []
+    posts:
+      - content/pages/blog/mecha.md
     showThumbnail: true
     showExcerpt: false
     showDate: true
