@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Blog
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
