@@ -3,9 +3,7 @@ type: PostLayout
 title: For the Oceans - Parley x Adidas
 date: '2018-06-10'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Design work completed for Adidas and their collaboration with Parley.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
