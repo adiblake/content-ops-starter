@@ -39,8 +39,8 @@ sections:
   - type: GenericSection
     subtitle: My Story
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      I've always been interested in how design can help people live better
+      lives.
     actions: []
     media:
       type: ImageBlock
