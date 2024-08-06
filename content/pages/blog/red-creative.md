@@ -44,7 +44,7 @@ styles:
   self:
     flexDirection: row
 ---
-[https://www.youtube.com/watch?v=7H76paM05B8& ](https://www.youtube.com/watch?v=7H76paM05B8&)
+![](/images/Variasole%201.png)See our full product presentation here: [https://www.youtube.com/watch?v=7H76paM05B8& ](https://www.youtube.com/watch?v=7H76paM05B8&)
 
 The VARIASOLE uses a customised, variable density structure to redistribute pressure evenly across the sole. This improves blood flow and can be used to treat infection, ulceration and neuropathy, particularly for those living with diabetes.
 
