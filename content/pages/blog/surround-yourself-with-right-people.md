@@ -1,5 +1,5 @@
 ---
-title: Nike SK
+title: Nike SK - Air Max 97
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
