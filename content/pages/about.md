@@ -119,7 +119,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/PXL_20221221_21351180ddw9 (2).jpg
+      url: /images/received_1635149097275087.jpeg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
