@@ -1,6 +1,6 @@
 ---
 title: DFYWEAR
-slug: life-of-our-development-team
+slug: dfywear
 date: '2020-01-01'
 excerpt: >-
   DFYWEAR was a streetwear clothing brand I created in 2018, running for two
