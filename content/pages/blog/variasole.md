@@ -22,7 +22,7 @@ styles:
   self:
     flexDirection: col
     margin:
-      - mb-2
+      - mb-0
 featuredImage:
   type: ImageBlock
   url: /images/Variasole 1.png
