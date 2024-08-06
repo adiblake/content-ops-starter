@@ -93,7 +93,7 @@ sections:
           - mr-0
           - mt-0
           - mb-0
-        justifyContent: flex-start
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
