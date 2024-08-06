@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Generic Section With A Form
+      text: Want to get in touch?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
