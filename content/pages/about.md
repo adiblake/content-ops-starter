@@ -42,8 +42,10 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: |
-      I am a graphic designer turned mechanical engineer 
+    text: >+
+      I am a graphic designer turned mechanical engineer with over 5 years of
+      design experience and a flourishing passion for product design. 
+
     actions: []
     media:
       type: ImageBlock
