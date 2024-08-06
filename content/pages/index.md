@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      A graphic designer turned mechanical engineer with over 5 years of design
+      experience and a flourishing passion for product design. Please take a
+      look at my work and get in touch!
+
     actions:
       - label: Get started
         altText: ''
