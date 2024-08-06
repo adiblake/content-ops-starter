@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KBAmy001836--000028.jpg
+      url: /images/PXL_20221221_213511809 (2).jpg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
