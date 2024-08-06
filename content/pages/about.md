@@ -41,7 +41,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Here's a little about me...
+    subtitle: ''
     text: |
       I am a graphic designer turned mechanical engineer 
     actions: []
