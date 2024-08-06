@@ -41,7 +41,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: My story
       color: text-dark
     subtitle: ''
     text: >+
