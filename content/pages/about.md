@@ -40,9 +40,12 @@ sections:
     subtitle: My Story
     text: >
       I've always been interested in how design can help people live better
-      lives. Working as a graphic designer for half a decade and now as a
-      mechanical engineer in medical device product development, I've had the
-      privilege of applying my design skills to address real-world problems.
+      lives. 
+
+
+      Working as a graphic designer for half a decade and now as a mechanical
+      engineer in medical device product development, I've had the privilege of
+      applying my design skills to address real-world problems.
     actions: []
     media:
       type: ImageBlock
