@@ -11,7 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: ''
+    text: >
+      I am a graphic designer turned mechanical engineer with over 5 years of
+      design experience and a flourishing passion for product design. 
     actions: []
     colors: bg-dark-fg-light
     backgroundImage:
