@@ -37,7 +37,7 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    subtitle: Increase your reach
+    subtitle: My Story
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
