@@ -45,8 +45,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      I am a graphic designer turned mechanical engineer with over 5 years of
-      design experience and a flourishing passion for product design. 
+      I was just 10 years old when I had the chance to use a device that would
+      change my life for years to come. It was having an insulin pump - a pocket
+      sized device that allowed me to dose a continuous flow of insulin - that
+      fundamentally changed the way I could eat, sleep and live life as a kid
+      with type-1 diabetes.
 
     actions: []
     media:
