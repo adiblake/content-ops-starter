@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: VARIASOLE
-date: '2018-02-10'
+date: '2018-03-10'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
