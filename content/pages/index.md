@@ -7,7 +7,7 @@ sections:
       text: Welcome to my portfolio.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: My name is Adi!
     text: >+
       A graphic designer turned mechanical engineer with over 5 years of design
       experience and a flourishing passion for product design. Please take a
