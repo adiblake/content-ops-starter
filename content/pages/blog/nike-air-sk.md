@@ -3,8 +3,8 @@ title: Nike SK - Air Max 97
 slug: nike-air-sk
 date: '2019-07-02'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Design work completed for Nike as part of their collaboration with Skepta Nike
+  SK 
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
