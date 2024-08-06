@@ -13,7 +13,7 @@ sections:
       design experience and a flourishing passion for product design. Please
       take a look at my work and get in touch!
     actions:
-      - label: Get started
+      - label: Let's talk
         altText: ''
         url: /
         showIcon: false
