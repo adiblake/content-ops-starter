@@ -10,8 +10,7 @@ sections:
     subtitle: Welcome to my portfolio.
     text: >
       I am a graphic designer turned mechanical engineer with over 5 years of
-      design experience and a flourishing passion for product design. Please
-      take a look at my work and get in touch!
+      design experience and a flourishing passion for product design. 
     actions:
       - label: Let's talk
         altText: ''
