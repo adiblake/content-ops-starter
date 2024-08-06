@@ -49,7 +49,7 @@ postFeed:
   showAuthor: false
   actions: []
   elementId: null
-  variant: small-list
+  variant: big-list
   colors: bg-light-fg-dark
   hoverEffect: shadow-plus-move-up
 ---
