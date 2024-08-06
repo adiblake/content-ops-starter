@@ -81,7 +81,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
   - type: GenericSection
     title:
       type: TitleBlock
