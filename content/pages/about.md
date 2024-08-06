@@ -85,7 +85,7 @@ sections:
         padding:
           - pl-0
         margin:
-          - ml-7
+          - ml-72
   - type: GenericSection
     title:
       type: TitleBlock
