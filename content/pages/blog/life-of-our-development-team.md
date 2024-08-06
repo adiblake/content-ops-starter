@@ -1,7 +1,7 @@
 ---
 title: DFYWEAR
 slug: life-of-our-development-team
-date: '0002-03-27'
+date: '2020-03-27'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
