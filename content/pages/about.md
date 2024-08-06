@@ -72,7 +72,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/shared image (2).jpg
-      altText: Dope design preview
+      altText: Me as a kid
     badge:
       type: Badge
       label: ''
