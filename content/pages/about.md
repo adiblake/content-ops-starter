@@ -92,7 +92,7 @@ sections:
           - ml-72
           - mr-72
           - mt-0
-          - mb-72
+          - mb-0
   - type: GenericSection
     title:
       type: TitleBlock
