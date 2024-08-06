@@ -2,7 +2,7 @@
 title: MECHA
 slug: top-ten-lessons-we-learned
 date: '2021-01-14'
-excerpt: GRAPHIC DESIGN
+excerpt: 'Branding and design package for MECHA '
 featuredImage:
   url: /images/cover image.png
   altText: Thumbnail
