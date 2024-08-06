@@ -15,13 +15,7 @@ sections:
       I am a graphic designer turned mechanical engineer with over 5 years of
       design experience and a flourishing passion for product design. 
 
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
