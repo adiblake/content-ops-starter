@@ -57,7 +57,7 @@ sections:
         alignItems: center
         margin:
           - mb-28
-        justifyContent: flex-start
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
