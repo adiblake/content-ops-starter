@@ -21,6 +21,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    margin:
+      - mb-2
 featuredImage:
   type: ImageBlock
   url: /images/Variasole 1.png
