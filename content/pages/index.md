@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: See my work
         altText: ''
-        url: /
+        url: /portfolio
         showIcon: true
         icon: arrowRight
         iconPosition: right
