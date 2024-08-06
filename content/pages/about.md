@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/KBAmy001836--000028.jpg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
