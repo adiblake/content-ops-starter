@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Red Creative
+title: VARIASOLE
 date: '2018-02-10'
 author: content/data/person1.json
 excerpt: >-
