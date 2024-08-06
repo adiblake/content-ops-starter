@@ -95,6 +95,29 @@ sections:
           - mb-1
         justifyContent: center
   - type: GenericSection
+    subtitle: My Story
+    text: >
+      I've always been interested in how design can help people live better
+      lives. 
+
+
+      Working as a graphic designer for half a decade and now as a mechanical
+      engineer in medical device product development, I've had the privilege of
+      applying my design skills to address real-world problems.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/PXL_20221221_21351180ddw9 (2).jpg
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        margin:
+          - mb-0
+        justifyContent: center
+        flexDirection: '-reverse'
+  - type: GenericSection
     title:
       type: TitleBlock
       text: Social Media Management
