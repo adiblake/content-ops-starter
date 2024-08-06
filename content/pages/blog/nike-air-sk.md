@@ -1,6 +1,6 @@
 ---
 title: Nike SK - Air Max 97
-slug: surround-yourself-with-right-people
+slug: nike-air-sk
 date: '2019-07-02'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
