@@ -3,9 +3,10 @@ title: DFYWEAR
 slug: life-of-our-development-team
 date: '2020-01-01'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  DFYWEAR was a streetwear clothing brand I created in 2018, running for two
+  successful seasons before retiring in 2020.  You can find all the branding,
+  photography, and clothing design I made while leading the art direction for
+  this time. 
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
