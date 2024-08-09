@@ -94,7 +94,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'Adi Blake Bhattacharya - Designer, Engineer'
-  metaDescription: ''
+  metaDescription: 'Adi Blake Bhattacharya - Designer, Engineer'
   socialImage: /images/AB LOGO 2024.png
   type: Seo
 type: PageLayout
