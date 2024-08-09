@@ -54,12 +54,6 @@
             "url": "https://www.linkedin.com/in/adi-bhattacharya-/",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
