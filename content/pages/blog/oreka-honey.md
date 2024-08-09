@@ -4,11 +4,11 @@ title: Ōreka Honey
 date: '2022-10-27'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Ōreka Honey is a New Zealand brand of the highest quality 100% Mānuka honey. I
+  had the pleasure of designing their brand package, sachet and pot designs. 
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/new 8.png
   altText: Thumbnail
   elementId: ''
   styles:
