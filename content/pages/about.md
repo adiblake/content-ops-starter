@@ -189,7 +189,7 @@ sections:
 slug: about
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: About - Adi Blake Bhattacharya
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
