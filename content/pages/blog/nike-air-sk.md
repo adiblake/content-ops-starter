@@ -22,5 +22,27 @@ styles:
   self:
     flexDirection: col
 isFeatured: false
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        justifyContent: center
 ---
 ![](/images/4bc33474100047.5c21eac6886f3.png)![](/images/01e95874100047.5c21eac68828c.png)![](/images/8cb21f74100047.5c21eac6891c5.png)![](/images/06029574100047.5c21eac6889bf.gif)
