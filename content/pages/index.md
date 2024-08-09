@@ -40,7 +40,7 @@ sections:
           - pt-16
           - pl-40
           - pb-16
-          - pr-24
+          - pr-40
   - title:
       text: Want to get in touch?
       color: text-dark
