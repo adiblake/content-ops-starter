@@ -42,6 +42,6 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 ---
 ![](/images/new%208.png)![](/images/new%202.png)![](/images/front%201.png)![](/images/new%201.png)![](/images/15npa.png)![](/images/new%206.png)
