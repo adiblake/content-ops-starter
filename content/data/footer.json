@@ -38,12 +38,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/adi-bhattacharya-/",
             "icon": "linkedin",
