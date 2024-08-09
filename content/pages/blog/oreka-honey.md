@@ -30,6 +30,27 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        justifyContent: center
 slug: oreka-honey
 isFeatured: false
 isDraft: false
@@ -42,6 +63,6 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 ---
 ![](/images/new%208.png)![](/images/new%202.png)![](/images/front%201.png)![](/images/new%201.png)![](/images/15npa.png)![](/images/new%206.png)
