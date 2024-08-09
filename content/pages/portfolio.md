@@ -39,7 +39,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Portfolio
-  metaDescription: My Portfolio
+  metaDescription: Portfolio
   addTitleSuffix: true
   socialImage: /images/AB LOGO 2024.png
   metaTags: []
