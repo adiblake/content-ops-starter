@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/AB LOGO light 2024 small.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Adi Blake Bhattacharya",
+    "defaultSocialImage": "/images/AB LOGO 2024.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
