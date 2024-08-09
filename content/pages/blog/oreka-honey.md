@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Oreka Honey
+title: Ōreka Honey
 date: '2022-10-27'
 author: content/data/person1.json
 excerpt: >-
