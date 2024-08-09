@@ -41,6 +41,6 @@ seo:
   metaTitle: Portfolio
   metaDescription: My Portfolio
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/AB LOGO 2024.png
   metaTags: []
 ---
