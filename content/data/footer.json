@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Portfolio",
-                "altText": "Features page",
+                "altText": "Portfolio page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
