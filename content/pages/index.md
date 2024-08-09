@@ -93,7 +93,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Adi Blake Bhattacharya
+  metaTitle: 'Adi Blake Bhattacharya - Designer, Engineer'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/AB LOGO 2024.png
   type: Seo
