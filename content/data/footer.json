@@ -25,14 +25,6 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "About page"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
