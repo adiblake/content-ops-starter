@@ -192,4 +192,5 @@ seo:
   metaTitle: About Me
   metaDescription: Here's a little about me
   metaTags: []
+  addTitleSuffix: true
 ---
