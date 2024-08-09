@@ -38,7 +38,7 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-40
+          - pl-48
           - pb-16
           - pr-40
   - title:
