@@ -189,7 +189,7 @@ sections:
 slug: about
 seo:
   type: Seo
-  metaTitle: About - Adi Blake Bhattacharya
+  metaTitle: About Me
   metaDescription: Here's a little about me
   metaTags: []
 ---
