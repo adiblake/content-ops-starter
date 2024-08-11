@@ -34,10 +34,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: VARIASOLE
+  metaDescription: variasole
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/Variasole 1.png
 colors: bg-light-fg-dark
 styles:
   self:

@@ -54,10 +54,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: For the Oceans - Parley x Adidas
+  metaDescription: ''
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/efa49861051433.5a61987815be5.png
 colors: bg-light-fg-dark
 styles:
   self:

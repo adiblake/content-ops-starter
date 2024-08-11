@@ -12,10 +12,11 @@ featuredImage:
       borderRadius: medium
 isFeatured: false
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  metaTitle: MECHA
+  metaDescription: ''
+  socialImage: /images/cover image.png
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 styles:
   self:

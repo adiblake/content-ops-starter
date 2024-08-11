@@ -56,10 +56,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Ōreka Honey
+  metaDescription: Ōreka Honey
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/oreka logo with hex.png
 colors: bg-light-fg-dark
 styles:
   self:

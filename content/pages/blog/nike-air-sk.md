@@ -11,10 +11,11 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature1.svg
+  metaTitle: Nike SK - Air Max 97
+  metaDescription: ''
+  socialImage: /images/01e95874100047.5c21eac68828c.png
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person1.json

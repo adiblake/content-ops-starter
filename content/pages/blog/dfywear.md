@@ -15,10 +15,11 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: A Day in the Life of Our Development Team
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature3.svg
+  metaTitle: DFYWEAR
+  metaDescription: ''
+  socialImage: /images/13.png
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person2.json
