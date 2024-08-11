@@ -82,6 +82,9 @@ sections:
         alignItems: center
         margin:
           - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
         justifyContent: center
         flexDirection: '-reverse'
         padding:
