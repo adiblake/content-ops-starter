@@ -60,6 +60,7 @@ seo:
   metaDescription: Ōreka Honey
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/oreka logo with hex.png
 colors: bg-light-fg-dark
 styles:
   self:
