@@ -15,6 +15,7 @@ seo:
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person1.json
