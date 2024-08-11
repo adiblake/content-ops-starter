@@ -58,6 +58,7 @@ seo:
   metaDescription: ''
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/efa49861051433.5a61987815be5.png
 colors: bg-light-fg-dark
 styles:
   self:
