@@ -16,6 +16,7 @@ seo:
   metaDescription: ''
   socialImage: /images/cover image.png
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 styles:
   self:
