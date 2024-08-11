@@ -85,36 +85,6 @@ sections:
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
-    subtitle: How it all started
-    text: >
-      I was just 10 years old when I had the chance to use a device that would
-      change my life for years to come. It was having an insulin pump - a pocket
-      sized device that allowed me to dose a continuous flow of insulin - that
-      fundamentally changed the way I could eat, sleep and live life as a kid
-      with type-1 diabetes. This taught me how a well designed device could
-      improve my life in every way.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/421421321321321.jpg
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        margin:
-          - mb-0
-          - mt-0
-          - ml-0
-          - mr-0
-        justifyContent: center
-        flexDirection: '-reverse'
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-  - type: GenericSection
     subtitle: Pivoting industries
     text: >
       Working as a graphic designer for several years, I happened onto a TED
