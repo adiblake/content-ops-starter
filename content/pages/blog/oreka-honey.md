@@ -57,7 +57,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Ōreka Honey
-  metaDescription: lorem-ipsum
+  metaDescription: Ōreka Honey
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
