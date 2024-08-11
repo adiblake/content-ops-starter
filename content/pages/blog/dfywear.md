@@ -17,7 +17,7 @@ featuredImage:
 seo:
   metaTitle: DFYWEAR
   metaDescription: ''
-  socialImage: /images/abstract-feature3.svg
+  socialImage: /images/13.png
   type: Seo
   addTitleSuffix: true
 colors: bg-light-fg-dark
