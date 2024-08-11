@@ -13,7 +13,7 @@ featuredImage:
 seo:
   metaTitle: Nike SK - Air Max 97
   metaDescription: ''
-  socialImage: /images/abstract-feature1.svg
+  socialImage: /images/01e95874100047.5c21eac68828c.png
   type: Seo
   addTitleSuffix: true
 colors: bg-light-fg-dark
