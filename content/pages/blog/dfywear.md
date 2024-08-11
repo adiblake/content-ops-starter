@@ -19,6 +19,7 @@ seo:
   metaDescription: ''
   socialImage: /images/abstract-feature3.svg
   type: Seo
+  addTitleSuffix: true
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person2.json
