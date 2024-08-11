@@ -12,7 +12,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: Nike SK - Air Max 97
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: ''
   socialImage: /images/abstract-feature1.svg
   type: Seo
   addTitleSuffix: true
