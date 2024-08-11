@@ -36,7 +36,7 @@ seo:
   type: Seo
   metaTitle: VARIASOLE
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
