@@ -38,6 +38,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/Variasole 1.png
 colors: bg-light-fg-dark
 styles:
   self:
