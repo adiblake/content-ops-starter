@@ -37,10 +37,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-48
-          - pb-16
-          - pr-40
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
   - title:
       text: Want to get in touch?
       color: text-dark
