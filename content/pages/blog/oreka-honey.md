@@ -56,7 +56,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: ''
+  metaTitle: Ōreka Honey
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
