@@ -35,7 +35,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: VARIASOLE
-  metaDescription: lorem-ipsum
+  metaDescription: variasole
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Variasole 1.png
