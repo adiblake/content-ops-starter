@@ -57,6 +57,9 @@ sections:
         alignItems: center
         margin:
           - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
@@ -81,11 +84,6 @@ sections:
           - mb-0
         justifyContent: center
         flexDirection: '-reverse'
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
   - type: GenericSection
     subtitle: Pivoting industries
     text: >
@@ -109,6 +107,9 @@ sections:
         alignItems: center
         margin:
           - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
@@ -130,6 +131,9 @@ sections:
         alignItems: center
         margin:
           - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
