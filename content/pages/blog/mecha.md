@@ -14,7 +14,7 @@ isFeatured: false
 seo:
   metaTitle: MECHA
   metaDescription: ''
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/cover image.png
   type: Seo
 colors: bg-light-fg-dark
 styles:
