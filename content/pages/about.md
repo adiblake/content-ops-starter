@@ -63,7 +63,7 @@ sections:
         justifyContent: center
         flexDirection: '-reverse'
   - type: GenericSection
-    subtitle: My Story
+    subtitle: How it all started
     text: >
       I've always been interested in how design can help people live better
       lives. 
