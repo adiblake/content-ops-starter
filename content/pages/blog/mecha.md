@@ -13,7 +13,7 @@ featuredImage:
 isFeatured: false
 seo:
   metaTitle: MECHA
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: ''
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
